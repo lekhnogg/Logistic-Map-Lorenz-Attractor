@@ -1,6 +1,5 @@
-%Assignment 3
-%Gleb Lekhno 
-%7776511
+
+%Created by Gleb Lekhno 
 
 
 %Uncomment 17,41,42,43 Individually
